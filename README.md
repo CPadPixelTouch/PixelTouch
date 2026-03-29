@@ -1,4 +1,4 @@
-![PixelTouch]((https://pixeltouch.org/material/logo.png)
+![PixelTouch](https://pixeltouch.org/material/logo.png)
 ![PixelTouch](https://pixeltouch.org/src/Device.png)
 
 チャレンジパッドNeo/Nextを**Google Pixelとして使う**ためのROMです。
@@ -19,5 +19,8 @@
 
 ## **使用許諾**
 
-本ROMを使用する場合は[利用規約](https://pixeltouch.org/terms)をしっかりと読んでください。
+本ROMを使用する場合は **[利用規約](https://pixeltouch.org/terms)** と **[プライバシーポリシー](https://pixeltouch.org/terms)** を必ずお読み下さい。
 本ROMをインストールした場合以下の利用規約に同意したものとみなします。
+
+PixelTouch v2.0.0以降から本ROMを利用する場合はシリアルナンバー(製造番号)とGoogleアカウントを紐づける必要があります。
+詳しくは **[こちら](https://pixeltouch.org/auth-guide)** を御覧ください。
