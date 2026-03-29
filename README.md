@@ -1,4 +1,4 @@
-![PixelTouch](https://pixeltouch.org/material/logo.png)
+![PixelTouch](https://pixeltouch.org/src/material/logo.png)
 ![PixelTouch](https://pixeltouch.org/src/Device.png)
 
 チャレンジパッドNeo/Nextを**Google Pixelとして使う**ためのROMです。
