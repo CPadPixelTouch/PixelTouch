@@ -6,8 +6,8 @@
 
 # PixelTouch v3.0.0 Release（EOS）
 
-<img alt="PixelTouch ロゴ" src="https://pixeltouch.org/src/Material/PixelTouch-logo-TM.png" width="25%">
-<img alt="PixelTouch 対応デバイス" src="https://pixeltouch.org/src/Device.png" width="25%">
+<img alt="PixelTouch ロゴ" src="https://pixeltouch.org/src/Material/PixelTouch-logo-TM.png" width="40%">
+<img alt="PixelTouch 対応デバイス" src="https://pixeltouch.org/src/Device.png" width="45%">
 
 ## リリース情報
 
@@ -45,3 +45,15 @@ PixelTouch v3.0.0は、2026年11月15日のサービス終了に伴う最終バ�
 **[Zennの導入ガイド](https://zenn.dev/minekura_1001/articles/0d37e5f877ace6)** をご覧ください。
 
 導入・改造の前に、**[利用上の規則](https://pixeltouch.org/terms/)** もご確認ください。
+
+## 署名ツール（PixelTouchSignTools.zip）
+
+**PixelTouch用の署名鍵と、APK・OTAアップデートZIPの署名ツールをまとめたものです。**
+Windows PCと、`java`コマンドを実行できるJava環境が必要です。
+
+ZIPを展開し、署名したいファイルを対応するバッチファイルへドラッグ＆ドロップしてください。
+
+- **APKの署名：** `PixelTouch_sign_apk.bat`
+- **OTAの署名：** `PixelTouch_sign_ota.bat`
+
+詳しい使い方は、同梱の **README.txt** をご覧ください。
