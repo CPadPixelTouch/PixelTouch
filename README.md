@@ -46,14 +46,3 @@ PixelTouch v3.0.0は、2026年11月15日のサービス終了に伴う最終バ�
 
 導入・改造の前に、**[利用上の規則](https://pixeltouch.org/terms/)** もご確認ください。
 
-## 署名ツール（PixelTouchSignTools.zip）
-
-**PixelTouch用の署名鍵と、APK・OTAアップデートZIPの署名ツールをまとめたものです。**
-Windows PCと、`java`コマンドを実行できるJava環境が必要です。
-
-ZIPを展開し、署名したいファイルを対応するバッチファイルへドラッグ＆ドロップしてください。
-
-- **APKの署名：** `PixelTouch_sign_apk.bat`
-- **OTAの署名：** `PixelTouch_sign_ota.bat`
-
-詳しい使い方は、同梱の **README.txt** をご覧ください。
